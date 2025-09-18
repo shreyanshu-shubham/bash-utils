@@ -23,4 +23,3 @@ progress-bar(){
 }
 
 progress-bar "$@"
-echo
